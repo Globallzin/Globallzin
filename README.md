@@ -11,7 +11,8 @@ Had opportunities of studying before: C, C#, C++, Java, Javascript, Typescript, 
 
 ## Honor mentions
 I currently sum up to 6 medals in math olympiads, specifically the OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas) and OMASP (Olímpiada de Matemática do estado de São Paulo), being 3 bronzes and 3 silvers.
-I participated in a robotics olympiad, specifically the OBR (Olímpiada Brasileira de Robótica), being at top 10-12th and later participating in a lot of events and meetings that envolved my robotic team, these meetings and events being mostly organized by my city council and even winning an "Honor Certificate" dedicated to each member of my team.
+
+I also participated in a robotics olympiad, specifically the OBR (Olímpiada Brasileira de Robótica), being at top 10-12th and later participating in a lot of events and meetings that envolved my robotic team, these meetings and events being mostly organized by my city council and even winning an "Honor Certificate" dedicated to each member of my team.
 
 ## End
 Thank you for taking your time to read this, see you later!
