@@ -5,7 +5,7 @@ My name is Gustavo "Globallzin" Malaquias, or just Globall, I'm a senior scripte
 With 6 years of experience in this niche, I can make anything on roblox, feel free to contact me for asking questions related to roblox scripting, programming in general or about me, like hints and routine.
 
 ## Programming languages
-Lua (Luau) - Senior
+Lua (Luau) - 6 years of experience, expert.
 
 Had opportunities of studying before: C, C#, C++, Java, Javascript, Typescript, Python.
 
