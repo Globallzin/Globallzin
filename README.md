@@ -1,22 +1,22 @@
-## Welcome to my github!
+# globallzin
 
-My name is Gustavo "Globallzin" Malaquias, or just Globall, I'm a senior scripter on roblox, currently studying my 1st semester of Computer Engineering at UTFPR (Universidade Tecnológica Federal do Paraná) (1st place).
+I'm Gustavo, a **Computer Engineering student** and Roblox developer focused on **Luau**, with 6 years of experience building game systems.
 
-With 6 years of experience in this niche, I can make anything on roblox, feel free to contact me for asking questions related to roblox scripting, programming in general or about me, like hints and routine.
+My main areas of work include:
 
-## Programming languages
-Lua (Luau) - 6 years of experience, expert.
+* Gameplay systems and mechanics
+* Client-server architecture
+* Networking
+* Data persistence
+* Modular codebases
+* UI systems
+* Performance optimization
+* Roblox APIs
 
-Had opportunities of studying before: C, C#, C++, Java, Javascript, Typescript, Python.
+Most of my production work is private, so not everything I've worked on is available publicly on GitHub.
 
-## Socials
-Mostly social medias I use is attached on my github profile, but for contacting me directly, please reach me on Discord, my username is **globallzin**. I'll reply you asap.
+I'm currently open to **freelance work and collaborations**.
 
-## Honor mentions
-I currently sum up to 6 medals in math olympiads, specifically the OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas) and OMASP (Olímpiada de Matemática do estado de São Paulo), being 3 bronzes and 3 silvers.
+### Contact
 
-I also participated in a robotics olympiad, specifically the OBR (Olímpiada Brasileira de Robótica), being at top 10-12th and later participating in a lot of events and meetings that envolved my robotic team, these meetings and events being mostly organized by my city council and even winning an "Honor Certificate" dedicated to each member of my team.
-
-
-## The End
-Thank you for taking your time to read this, see you later!
+**Discord:** `globallzin`
